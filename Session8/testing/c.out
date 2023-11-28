@@ -1,0 +1,9 @@
+mode: set
+wantsome.ro/testing/table/doMath.go:5.47,6.12 1 1
+wantsome.ro/testing/table/doMath.go:7.11,8.20 1 1
+wantsome.ro/testing/table/doMath.go:9.11,10.20 1 1
+wantsome.ro/testing/table/doMath.go:11.11,12.20 1 1
+wantsome.ro/testing/table/doMath.go:13.11,14.13 1 1
+wantsome.ro/testing/table/doMath.go:14.13,16.4 1 1
+wantsome.ro/testing/table/doMath.go:17.3,17.20 1 1
+wantsome.ro/testing/table/doMath.go:18.10,19.51 1 0
